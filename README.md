@@ -31,7 +31,7 @@ The group consists of 6 members, each responsible for one preprocessing techniqu
 
 # How to Run the Code
 - Clone the repository: git clone <repository-url>.
-- Place the raw dataset (DengueRiskCombined_Final.csv) in the data/raw/ folder.
+- Place the raw dataset (DengueRisk_Data.csv) in the data/raw/ folder.
 - Open the project in Jupyter Notebook: Navigate to the repository folder and run jupyter notebook 
 - Run individual notebooks: Execute IT_Number_Preprocessing_technique.ipynb for each member's contribution.
 - Run the group pipeline: Execute group_pipeline.ipynb to see the integrated preprocessing flow.

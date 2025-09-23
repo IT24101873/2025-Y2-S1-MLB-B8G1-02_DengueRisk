@@ -23,15 +23,15 @@ Key Statistics:
 The group consists of 6 members, each responsible for one preprocessing technique as part of the Progress Review I on Data Preprocessing & EDA:
 
 - IT24101873 - Jesmeen M.B.A:  Extrating , combining & Handling Missing Data
-- IT24101952 - Senevirathna U.K.J.: 
-- IT24101927 - Liyanage J.L.K.L.: 
-- IT24101972 - Nethsara K.P.S.:
-- IT24101829 - Ranasinghe R.P.V.K.:
-- IT24103815 - Fernando W.P.S.:
+- IT24101952 - Senevirathna U.K.J.: outlier capping
+- IT24101927 - Liyanage J.L.K.L.:  feature engineering
+- IT24101972 - Nethsara K.P.S.: encoding
+- IT24101829 - Ranasinghe R.P.V.K.: scaling normalization
+- IT24103815 - Fernando W.P.S.:feature engineering
 
 # How to Run the Code
 - Clone the repository: git clone <repository-url>.
-- Place the raw dataset (DengueRisk_Data.csv) in the data/raw/ folder.
-- Open the project in Jupyter Notebook: Navigate to the repository folder and run jupyter notebook 
+- Place the raw datasets from OneDrive in the Jupyter Home for the repository
+- Open the project in Jupyter Notebook: Navigate to the repository folder and run jupyter notebook .
 - Run individual notebooks: Execute IT_Number_Preprocessing_technique.ipynb for each member's contribution.
 - Run the group pipeline: Execute group_pipeline.ipynb to see the integrated preprocessing flow.
